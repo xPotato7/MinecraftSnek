@@ -1,0 +1,17 @@
+name: SnekGame
+main: minecraftsnek.Main
+version: 1.0
+api-version: 1.17
+author: xPotato
+commands:
+    board:
+        usage: /board height width
+        description: Create the board
+    
+    play:
+        usage: /play
+        description: Initializes the snek and apple
+    
+    reset:
+        usage: /reset
+        description: Resets the game
