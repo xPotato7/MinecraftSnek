@@ -12,7 +12,10 @@ Then once you run the spigot-1.17.1.jar file, it will run just like a normal min
 ## Download MinecraftSnek Plugin
 You can straight download the plugin [here](https://drive.google.com/drive/folders/1y2Gb3EnFlTLyM-jg_UoSpQdN--HZNZgm?usp=sharing).
 
-Alternatively, you may download/clone the code and generate a jar file. To generate the jar file, it depends on your java IDE that you are running. In Apache Netbeans, you can just build the project and the jar file will appear in your project folder under dist.
+Alternatively, you may download/clone the code and generate the plugin which is a jar file.
+You need to add the spigot-1.17.1.jar into your libraries folder.
+To generate the jar file, it depends on your java IDE that you are running. In Apache Netbeans, you can just build the project and the jar file will appear in your project folder under dist.
+
 ## How to play the Snek Game?
 Once you have have the server running with the plugin inside the plugins folder, when you enter your world it should have the same welcome message as shown in my youtube video (That's how you know the plugin is working). Make sure you op yourself by typing /op yourname in the server console to be able to use commands.
 
